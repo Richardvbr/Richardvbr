@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Richard van Brunschot</h1>
 <h3 align="center">A passionate Front-end developer from Veldhoven, The Netherlands</h3>
 
-- 👨‍💻 All of my projects are available at [brunschot.dev](brunschot.dev)
+- 👨‍💻 All of my projects are available at [brunschot.dev](https://www.brunschot.dev/)
 
 - 📫 How to reach me **richardvanbrunschot@gmail.com**
 
