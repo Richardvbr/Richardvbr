@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Richard van Brunschot</h1>
-<h3 align="center">A front-end developer from Veldhoven, The Netherlands</h3>
+<h3 align="center">Currently working as a front-end engineer at Trifor</h3>
 
-- 👨‍💻 All of my projects are available at [brunschot.dev](https://www.brunschot.dev/)
+- 👨‍💻 All of my projects are available at [brunschot.netlify.app](https://www.brunschot.netlify.app)
 
 - 📫 Email: **richardvanbrunschot@gmail.com**
 
