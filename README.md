@@ -47,13 +47,6 @@
       <tr>
       <td></td>
       <td></td>
-      <td>Tailwind CSS</td>
-      <td></td>
-    </tr>
-    </tr>
-      <tr>
-      <td></td>
-      <td></td>
       <td>Supabase</td>
       <td>Adobe Suite</td>
     </tr>
