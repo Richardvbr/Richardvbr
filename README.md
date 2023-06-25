@@ -40,7 +40,7 @@
     </tr>
     <tr>
       <td>HTML5</td>
-      <td></td>
+      <td>Astro</td>
       <td>styled-components</td>
       <td>Azure DevOps</td>
     </tr>
