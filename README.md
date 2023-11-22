@@ -50,11 +50,5 @@
       <td>Supabase</td>
       <td>Adobe Suite</td>
     </tr>
-      <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
   </tbody>
 </table>
