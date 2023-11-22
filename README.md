@@ -53,7 +53,7 @@
       <tr>
       <td></td>
       <td></td>
-      <td>Scrum</td>
+      <td></td>
       <td></td>
     </tr>
   </tbody>
