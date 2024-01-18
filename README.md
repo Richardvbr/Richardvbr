@@ -1,7 +1,7 @@
 <h1>Hi, I'm Richard van Brunschot</h1>
 <h3>Currently working as a Front-end Developer at Trifork (Eindhoven, NL)</h3>
 
-👨‍💻 Visit my portfolio website at [brunschot.dev](https://brunschot.dev)
+👨‍💻 Visit my website at [brunschot.dev](https://brunschot.dev)
 
 📫 Email: **richardvanbrunschot@gmail.com**
 
